@@ -1,0 +1,4 @@
+int int
+product = a * b
+sum = a + b
+product - sum

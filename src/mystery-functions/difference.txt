@@ -1,0 +1,3 @@
+int int
+diff = a - b
+diff * diff
