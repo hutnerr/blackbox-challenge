@@ -1,18 +1,17 @@
 ## Overview
 
-Black Box Challenge is a terminal-based function puzzle game where players attempt to reverse-engineer hidden functions. By providing inputs and observing outputs, users must deduce the underlying logic and recreate the function using a custom-built programming language and interpreter.
+Black Box Challenge is a terminal-based function puzzle game where players reverse-engineer hidden functions by observing input-output behavior and recreating the logic using a custom-built programming language.
 
-This project involves building a full interpreter from scratch, including a lexer, parser, and evaluator. It also features an interactive terminal user interface that allows users to test and refine their solutions in real time.
+This project was developed in C# with a partner and centers around building a complete interpreter from scratch. It includes a custom lexer, a recursive descent parser, and an evaluator powered by abstract syntax trees and the Visitor pattern, all integrated into an interactive terminal interface.
 
 **Tech Stack:**
-- Custom Programming Language (Lexer & Parser)
-- [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui) for TUI
-- Abstract Syntax Trees & Visitor Pattern
-- Recursive Descent Parsing & Tree Traversal
+- C#  
+- Custom Lexer & Parser  
+- Abstract Syntax Trees & Visitor Pattern  
+- Recursive Descent Parsing  
+- [Terminal.Gui](https://github.com/gui-cs/Terminal.Gui)
 
 ## Showcase
-
-Black Box Challenge delivers an interactive coding experience entirely within the terminal, combining elements of game design with compiler construction.
 
 **Key Features:**
 - Custom programming language supporting arithmetic, logical, and bitwise operations  
