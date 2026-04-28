@@ -27,4 +27,4 @@ This project was developed in C# with a partner and centers around building a co
 3. Test your implementation against multiple cases  
 4. Refine your solution until outputs match expected results
 
-![](https://www.hunter-baker.com/resources/images/projects/blackbox-challenge.png)
+![](https://www.hunter-baker.com/assets/projects/black_box_challenge/blackbox-challenge.png)
