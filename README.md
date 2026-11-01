@@ -1,4 +1,4 @@
-> This was a learning project and will not be updated anymore.
+> This was a learning project that is archived and will not be updated anymore.
 
 ## Overview
 Black Box Challenge is a terminal-based puzzle game where players reverse-engineer hidden functions by observing input-output behavior and recreating the logic in a custom-built programming language.
